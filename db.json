@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Dec 3rd at 2:30PM",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Garden Works",
+      "day": "Dec 6rd at 3:30PM",
+      "reminder": true
+    },
+    {
+      "text": "Vue Tutorial",
+      "day": "Dec 15th at 5:00PM",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
